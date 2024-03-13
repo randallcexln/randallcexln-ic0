@@ -1,10 +1,6 @@
 {
     "name": "randallcexln-ic0",
-<<<<<<< HEAD
     "version": "1.0.3",
-=======
-    "version": "1.0.1",
->>>>>>> 00a834362eb4cb0d2f35c9fac98ba978017e5d1c
     "description": "An easy-to-use JavaScript API for the Internet Computer.",
     "author": "randallcexln@gmail.com",
     "license": "Apache-2.0",
