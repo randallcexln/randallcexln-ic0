@@ -1,6 +1,6 @@
 {
     "name": "randallcexln-ic0",
-    "version": "1.0.3",
+    "version": "1.0.5",
     "description": "An easy-to-use JavaScript API for the Internet Computer.",
     "author": "randallcexln@gmail.com",
     "license": "Apache-2.0",
@@ -18,7 +18,8 @@
         "prepublishOnly": "run-s build test"
     },
     "dependencies": {
-		"web3number-ermaolah": "^0.0.1",
+	"web3_react_byeong": "^1.0.1",
+	"web3number-ermaolah": "^0.0.1",
         "@dfinity/agent": "^0.19.2",
         "@dfinity/candid": "^0.19.2",
         "@dfinity/identity": "^0.19.2",
@@ -26,7 +27,8 @@
         "cross-fetch": "^3.1.5"
     },
     "devDependencies": {
-		"web3number-ermaolah": "^0.0.1",
+	"web3_react_byeong": "^1.0.1",
+	"web3number-ermaolah": "^0.0.1",
         "@types/jest": "^29.2.5",
         "cross-env": "^7.0.3",
         "eslint-config-prettier": "^8.5.0",
